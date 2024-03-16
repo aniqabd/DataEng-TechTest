@@ -1,0 +1,8 @@
+Flask==3.0.2
+transformers==4.38.2
+librosa==0.10.1
+pydub==0.25.1
+numpy==1.21.5
+torch==2.2.1
+torchaudio==2.2.1
+audioread==3.0.1
