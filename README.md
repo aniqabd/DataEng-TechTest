@@ -47,4 +47,4 @@ http://54.252.173.69:3000
 
 ## Notice:
 - Task 2 is functioning well with docker.
-- Although the AWS link is accessible, it is not a functional searchui application. This is due to connection issues with Elasticsearch which I am unable to fix.
+- Although the AWS link is accessible, it is not a functional searchui application. This is due to connection issues with Elasticsearch which I am unable to fix. However, the source codes for task 3, 4 and 5 are completed to the best of my ability.
