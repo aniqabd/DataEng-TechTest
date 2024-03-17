@@ -37,7 +37,7 @@ docker run -p 8001:8001 asr-api
 
 This command runs the asr-app Docker container and maps port 8001 of the container to port 8001 on your host machine, allowing you to access the ASR application locally.
 
-## Accessing the Deployed Searchui Application on AWS (Non-functional):
+## Accessing the deployed Searchui Application on AWS (Non-functional):
 
 You can use the application by visiting the following URL:
 
