@@ -3,8 +3,8 @@
 This project includes an Automatic Speech Recognition (ASR) application designed to transcribe audio files. The setup involves running the ASR app locally using Docker, and a searchui application is also deployed on AWS.
 
 ## Submission files:
-- design.pdf is found in the deployment-design folder
-- essay.pdf is found in the root foler
+- design.pdf is found in the deployment-design folder.
+- essay.pdf is found in the root foler.
 
 ## Getting Started:
 These instructions will guide you through the process of setting up and running the ASR application for task 2 locally. A link is provided to access the searchui application on AWS.
@@ -46,5 +46,5 @@ http://54.252.173.69:3000
 ```
 
 ## Notice:
-- Task 2 is functioning well with docker
+- Task 2 is functioning well with docker.
 - Although the AWS link is accessible, it is not a functional searchui application. This is due to connection issues with Elasticsearch which I am unable to fix.
